@@ -77,6 +77,48 @@ let obj = {
       'text': 'Получить скидку'
     },
     'bgImg': 'https://files.stavbers.site/couch-factory/podarok.png'
+  },
+  'section-three': {
+    'title': 'Наши услуги',
+    'block': '#FECD4B',
+    'services': [
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/usluga1.svg',
+        'title': 'Перетяжка мягкой мебели',
+        'link': 'Подробнне'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/usluga2.svg',
+        'title': 'Замена и ремонт механизмов трансформации',
+        'link': 'Подробнне'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/usluga3.svg',
+        'title': 'Замена пружинных блоков',
+        'link': 'Подробнне'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/usluga4.svg',
+        'title': 'Изменение конструкции и дизайна',
+        'link': 'Подробнне'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/usluga5.svg',
+        'title': 'Ремонт каркасов мебели',
+        'link': 'Подробнне'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/usluga6.svg',
+        'title': 'Изготовление мебели',
+        'link': 'Подробнне'
+      },
+    ],
+    'bgPics1': 'https://files.stavbers.site/couch-factory/svg/usluga_ugolok.svg',
+    'bgPics2': 'https://files.stavbers.site/couch-factory/svg/usluga_ugolok.svg',
+    'btn': {
+      'bgColor': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
+      'text': 'Нужен замерщик?'
+    },
   }
 
 
