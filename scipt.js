@@ -119,6 +119,49 @@ let obj = {
       'bgColor': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
       'text': 'Нужен замерщик?'
     },
+  },
+  'section-four': {
+    'smImg': 'https://files.stavbers.site/couch-factory/svg/strujka.svg',
+    'title': 'Наши цены',
+    'block': '#FECD4B',
+    'bgImgLeft': 'https://files.stavbers.site/couch-factory/svg/podlojka_ceni.svg',
+    'bgImgChair': 'https://files.stavbers.site/couch-factory/svg/kreslo_podlojka.svg',
+    'btn': {
+      'bgColor': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
+      'text': 'Заказать'
+    },
+    'rigth': [
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/cena1.svg',
+        'title': 'Перетяжка углового дивана',
+        'price': 'от 25.000 грн. за шт'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/cena2.svg',
+        'title': 'Перетяжка кресла',
+        'price': 'от 7.500 грн. за шт.'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/cena3.svg',
+        'title': '​Обивка прямого дивана',
+        'price': 'от 490 грн. за м2'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/cena4.svg',
+        'title': 'Перетяжка изголовья или кровати',
+        'price': 'от 8.000 грн за шт'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/cena5.svg',
+        'title': 'Перетяжка кух. уголка',
+        'price': 'от 10.000 грн за шт'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/cena6.svg',
+        'title': ' Перетяжка стула, пуфа, банкетки.',
+        'price': 'от 1.500 грн за шт'
+      },
+    ]
   }
 
 
