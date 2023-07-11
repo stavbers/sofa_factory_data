@@ -67,7 +67,18 @@ let obj = {
       'img-one': 'https://files.stavbers.site/couch-factory/variant_one.png',
       'img-two': 'https://files.stavbers.site/couch-factory/variant_two.png'
     }
+  },
+  'section-two': {
+    'title': 'Хотите получить скидку?',
+    'block': '#FECD4B',
+    'text': 'Перетянуть ~ обтянуть диван, кресло, стулья, кухонный уголок.Работы ~ от 490 р. за 1м.кв. Сроки от 5-ти рабочих дней.Выезд замерщика по г. Екатеринбургу ~ бесплатно! Каждому клиенту ~ 2 подушки в ПОДАРОК.При заказе с сайта скидка 10% Приём заявок круглосуточный.',
+    'btn': {
+      'bgColor': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
+      'text': 'Получить скидку'
+    },
+    'bgImg': 'https://files.stavbers.site/couch-factory/podarok.png'
   }
+
 
 }
 
