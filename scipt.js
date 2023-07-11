@@ -162,6 +162,41 @@ let obj = {
         'price': 'от 1.500 грн за шт'
       },
     ]
+  },
+  'section-five': {
+    'smImg': 'https://files.stavbers.site/couch-factory/svg/strujka.svg',
+    'title': 'причин купить у нас',
+    'block': '#FECD4B',
+    'list': [
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/20let.svg',
+        'info': 'На мебельном рынке'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/2prichina.svg',
+        'info': 'Вызов мастера и замер БЕСПЛАТНО'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/3prichina.svg',
+        'info': 'Транспортировка мебели собственным транспортом'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/4prichina.svg',
+        'info': 'Ремонтные работы ЛЮБОЙ СЛОЖНОСТИ'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/5prichina.svg',
+        'info': 'Предоставляем подменную мебель'
+      },
+      {
+        'img': 'https://files.stavbers.site/couch-factory/svg/6prichina.svg',
+        'info': 'Оплата работы ПО ФАКТУ'
+      }
+    ],
+    'form-title': 'Оставить заявку',
+    'form-subt': 'Оставьте заявку на сайте и получите скидку в размере 10%',
+    'form-btn': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
+    'form-check': 'Я даю свое согласие на обработку персональных данных'
   }
 
 
