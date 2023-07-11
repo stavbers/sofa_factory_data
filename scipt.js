@@ -197,6 +197,14 @@ let obj = {
     'form-subt': 'Оставьте заявку на сайте и получите скидку в размере 10%',
     'form-btn': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
     'form-check': 'Я даю свое согласие на обработку персональных данных'
+  },
+  'section-six': {
+    'title': 'причин купить у нас',
+    'block': '#FECD4B',
+    'bigText': 'rgba(155, 113, 0, 0.15)',
+    'items': ['Заявка или звонок','Выезд специалиста и демонстрация образцов','Заключение договора','Бесплатный вывоз мебели в мастерскую','Перетяжка и реставрация мебели'],
+    'imgBig': 'https://files.stavbers.site/couch-factory/svg/divan-etap.svg',
+    'smImg': 'https://files.stavbers.site/couch-factory/svg/strujka.svg'
   }
 
 
