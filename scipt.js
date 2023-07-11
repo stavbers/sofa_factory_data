@@ -199,12 +199,17 @@ let obj = {
     'form-check': 'Я даю свое согласие на обработку персональных данных'
   },
   'section-six': {
-    'title': 'причин купить у нас',
+    'title': '"Этапы работы',
     'block': '#FECD4B',
     'bigText': 'rgba(155, 113, 0, 0.15)',
     'items': ['Заявка или звонок','Выезд специалиста и демонстрация образцов','Заключение договора','Бесплатный вывоз мебели в мастерскую','Перетяжка и реставрация мебели'],
     'imgBig': 'https://files.stavbers.site/couch-factory/svg/divan-etap.svg',
     'smImg': 'https://files.stavbers.site/couch-factory/svg/strujka.svg'
+  },
+  'sextion-seven': {
+    'title': 'Примеры работ',
+    'block': '#FECD4B',
+    'slider': ['https://files.stavbers.site/couch-factory/1.png','https://files.stavbers.site/couch-factory/3_1.png','https://files.stavbers.site/couch-factory/10_1.png','https://files.stavbers.site/couch-factory/13.png','https://files.stavbers.site/couch-factory/15.png','https://files.stavbers.site/couch-factory/19.png','https://files.stavbers.site/couch-factory/28.png','https://files.stavbers.site/couch-factory/23.png']
   }
 
 
