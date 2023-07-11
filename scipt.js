@@ -36,19 +36,39 @@ let obj = {
       'btnLink': 'href//ldfvldkgldgldgmv'
     },
     'map': {
-      'mapIcon': 'href//iconimage',
-      'mapName': 'ул специалистов 1 а',
+      'mapIcon': 'https://files.stavbers.site/couch-factory/svg/adres_stroka.svg',
+      'mapName': 'г. Харьков, Героев Харькова 220а',
       'mapLink': 'href//dgndkgldlkgvdlnvdlvlnd'
     },
     'actionCall': {
-      'actionIcon': 'href//kjdndjkbndkjbnd',
-      'actionPhone': '88888884r434535',
+      'actionIcon': 'https://files.stavbers.site/couch-factory/svg/zvonok.svg',
+      'actionPhone': '380677681999',
       'actionTitle': 'Звонок бесплатный'
     }
   },
   'headerBotm': {
-      'menu': ['О нас','Услуги','Цены','Материалы','Контакты','Отправить фото']
+      'menu': ['О нас','Услуги','Цены','Материалы','Контакты']
+  },
+  'section-one': {
+    'block': '#FECD4B',
+    'title': 'РАССЧИТАТЬ ЦЕНУ ПЕРЕТЯЖКИ И РЕМОНТА МЕБЕЛИ',
+    'subTitle': 'Заполните форму ниже для оценки стоимости перетяжки, обивки и ремонта мягкой мебели. Мы свяжемся с Вами для уточнения деталей, определим сроки и стоимость работ.',
+    'btn': {
+      'bgColor': 'linear-gradient(180deg, #FECD4B 0%, #A57800 100%)',
+      'text': 'Рассчитать стоимость'
+    },
+    'and': {
+      'text': 'ИЛИ',
+      'color': 'rgba(254, 205, 75, 0.42)'
+    },
+    'sendPhoto': 'ОТПРАВИТЬ ФОТО',
+    'imgBg': 'https://files.stavbers.site/couch-factory/podlojka.png',
+    'slider': {
+      'img-one': 'https://files.stavbers.site/couch-factory/variant_one.png',
+      'img-two': 'https://files.stavbers.site/couch-factory/variant_two.png'
+    }
   }
+
 }
 
 // console.log(JSON.stringify(obj))
