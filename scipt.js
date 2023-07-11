@@ -199,7 +199,7 @@ let obj = {
     'form-check': 'Я даю свое согласие на обработку персональных данных'
   },
   'section-six': {
-    'title': '"Этапы работы',
+    'title': 'Этапы работы',
     'block': '#FECD4B',
     'bigText': 'rgba(155, 113, 0, 0.15)',
     'items': ['Заявка или звонок','Выезд специалиста и демонстрация образцов','Заключение договора','Бесплатный вывоз мебели в мастерскую','Перетяжка и реставрация мебели'],
@@ -210,6 +210,55 @@ let obj = {
     'title': 'Примеры работ',
     'block': '#FECD4B',
     'slider': ['https://files.stavbers.site/couch-factory/1.png','https://files.stavbers.site/couch-factory/3_1.png','https://files.stavbers.site/couch-factory/10_1.png','https://files.stavbers.site/couch-factory/13.png','https://files.stavbers.site/couch-factory/15.png','https://files.stavbers.site/couch-factory/19.png','https://files.stavbers.site/couch-factory/28.png','https://files.stavbers.site/couch-factory/23.png']
+  },
+  'sextion-eight': {
+    'title': 'Материалы с которыми мы работаем',
+    'block': '#FECD4B',
+    'imgTop': '',
+    'subTitle':'мебельных материалов',
+    'info':'Мы сотрудничаем с лучшими производителями мебельных материалов по всему миру в том числе России, Индии и Италии. Можем предложить Вам не только эксклюзивные виды ткани и кожи, но и обширную цветовую палитру. Поможем правильно подобрать обивку под Ваш интерьер и дополнить мебель фактурой.',
+    'items': [
+      {
+        'title': 'Велюр',
+        'img': 'https://files.stavbers.site/couch-factory/1_1.png'
+      },
+      {
+        'title': 'Гобелен',
+        'img': 'https://files.stavbers.site/couch-factory/2.png'
+      },
+      {
+        'title': 'Жаккард',
+        'img': 'https://files.stavbers.site/couch-factory/3.png'
+      },
+      {
+        'title': 'Флок',
+        'img': 'https://files.stavbers.site/couch-factory/4.png'
+      },
+      {
+        'title': 'Шенилл',
+        'img': 'https://files.stavbers.site/couch-factory/5.png'
+      },
+      {
+        'title': 'Рогожка',
+        'img': 'https://files.stavbers.site/couch-factory/6.png'
+      },
+      {
+        'title': 'Экокожа',
+        'img': 'https://files.stavbers.site/couch-factory/7.png'
+      },
+      {
+        'title': 'Натуральная кожа',
+        'img': 'https://files.stavbers.site/couch-factory/8.png'
+      },
+      {
+        'title': 'Искусственная кожа',
+        'img': 'https://files.stavbers.site/couch-factory/9.png'
+      },
+      {
+        'title': 'Искусственная замша',
+        'img': 'https://files.stavbers.site/couch-factory/10.png'
+      }
+    ],
   }
 
 
